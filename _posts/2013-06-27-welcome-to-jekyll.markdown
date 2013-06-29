@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "E&J Design Relaunches using Jekyll!"
 date:   2013-06-27 21:33:31
 categories: jekyll update
 ---

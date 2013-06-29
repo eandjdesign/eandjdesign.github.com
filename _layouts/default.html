@@ -17,12 +17,14 @@
 
         <div class="container">
           <div class="site">
-            <div class="header">
-              <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-              <a class="extra" href="/">home</a>
-            </div>
+            <section class="row header">
+              <div class="row-contain">
+                <h1 class="title"><a href="/" class="circle">{{ site.name }}</a></h1>
+                <h2 class="sub-title">(some giant text or something)</h2>
+              </div>
+            </section>
 
-                {{ content }}
+              {{ content }}
 
             <div class="footer">
               <div class="contact">
